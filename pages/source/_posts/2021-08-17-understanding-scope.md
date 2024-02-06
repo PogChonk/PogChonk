@@ -3,6 +3,7 @@ layout: post
 title: Understanding Scope
 category: Scripting
 author: Pog Chonk
+tags: ["Pog Chonk", "Scripting"]
 ---
 
 A scope is a section of code where a variable is defined, in a valid state, and the variable is visible.  

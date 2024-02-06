@@ -4,6 +4,7 @@ title: Data Saving
 category: Scripting
 author: Thodor12
 navigation: [https://developer.roblox.com/en-us/onboarding/intro-to-saving-data]
+tags: ["Thodor12", "Scripting"]
 ---
 
 Too often we see people that combine PlayerAdded/PlayerRemoving to make datastore saving scripts.  

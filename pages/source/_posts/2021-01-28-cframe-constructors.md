@@ -3,6 +3,7 @@ layout: post
 title: CFrame Constructors
 category: Scripting
 author: Pog Chonk
+tags: ["Pog Chonk", "Scripting"]
 ---
 
 There's 2 main constructors for `CFrame`'s. `CFrame.new()` and `CFrame.lookAt()`, these serve similar but different purposes.  

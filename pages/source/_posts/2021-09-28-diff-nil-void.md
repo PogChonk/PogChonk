@@ -3,6 +3,7 @@ layout: post
 title: The difference between nil and "void"
 category: Scripting
 author: artblart
+tags: ["artblart", "Scripting"]
 ---
 
 A common misconception in Lua is that functions have an implicit return value. This is not true. Functions have an implicit return *instruction*, meaning a function will always return after execution even if no return is specified. This implicit return instruction will never carry any value.

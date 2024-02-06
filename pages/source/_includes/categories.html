@@ -1,0 +1,11 @@
+<h6><a href="{{ site.url }}/" class="text-decoration-none">< Back to overview</a></h6>
+<h6><a href="{{ site.url }}/categories/" class="text-decoration-none">< View all categories</a></h6>
+<h6><a href="{{ site.url }}/authors/" class="text-decoration-none">> View all authors</a></h6>
+{% for category in site.category_list %}
+<ul class="category-list">
+    <li style="padding-top: 20px; padding-bottom: 5px;">
+        <a href="{{ site.url }}/category/{{ category.title | downcase }}"><h4 id="{{ category.title | downcase }}">{{ category.title }}</h4></a>
+    </li>
+</ul>
+{% unless forloop.last %}{% endunless %}
+{% endfor %}

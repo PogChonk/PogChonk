@@ -11,6 +11,7 @@ links: [
     "https://developer.roblox.com/en-us/api-reference/class/Part",
     "https://developer.roblox.com/en-us/api-reference/class/SurfaceLight"
 ]
+tags: ["TheePBHST", "Studio"]
 ---
 
 As your game continues to develop and get larger in assets, you may start to realize (or not) that you have the same scripts in different assets in your game, and once you begin to lose track of these assets keeping track of them will get very difficult soon.

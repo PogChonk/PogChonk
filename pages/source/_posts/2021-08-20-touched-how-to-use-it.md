@@ -3,6 +3,7 @@ layout: post
 title: Touched, how to use it and it's limitations
 category: Scripting
 author: Thodor12
+tags: ["Thodor12", "Scripting"]
 ---
 
 Touched is an event which you can use to detect whenever a part gets touched by a different part, however people often claim this is too inaccurate and that's for a good reason.

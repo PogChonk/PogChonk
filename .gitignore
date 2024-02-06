@@ -4,3 +4,15 @@
 
 # Prevent the built site from being committed
 pages/build
+
+# Prevent vscode extensions from being committed
+.vscode
+
+# Prevent GH Workflows from being committed
+.github
+
+# Prevent test files from being committed
+tests
+
+# Prevent git files from being comitted
+.git

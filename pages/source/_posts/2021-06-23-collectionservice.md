@@ -7,6 +7,7 @@ links: [
     "https://developer.roblox.com/en-us/api-reference/class/CollectionService",
     "https://devforum.roblox.com/t/tag-editor-plugin/101465"
 ]
+tags: ["Thodor12", "Scripting"]
 ---
 
 CollectionService is a really underrated service and not many people seem to know about it, on it's own it honestly doesn't even look that special but when used correctly this service can improve your game tenfold. Theoretically this service can be used in whatever scenario you desire as it's versatility is amazing.

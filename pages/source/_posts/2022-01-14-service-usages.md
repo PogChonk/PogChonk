@@ -26,6 +26,7 @@ links: [
     "https://developer.roblox.com/en-us/api-reference/class/LocalizationTable",
     "https://devforum.roblox.com/t/1583158"
 ]
+tags: ["Thodor12", "Studio"]
 ---
 
 The explorer in Roblox Studio contains a lot of "top level services", all of those services have a specific function and are sometimes not used correctly.

@@ -3,6 +3,7 @@ layout: post
 title: Pairs vs IPairs
 category: Scripting
 author: Pog Chonk
+tags: ["Pog Chonk", "Scripting"]
 ---
 
 `pairs` internally uses `next` (in Base Lua, in Luau they use a custom internal iterator).  

@@ -7,6 +7,7 @@ links: [
     "https://devforum.roblox.com/t/task-library-now-available/1387845",
     "https://developer.roblox.com/en-us/api-reference/lua-docs/task"
 ]
+tags: ["Thodor12", "Studio"]
 ---
 
 Along with the update of the [Task Library](#link1) (see also [task library documentation](#link2)), we got a new set of functions for task scheduling, along with a new and improved `wait()` function, namely `task.wait()`.

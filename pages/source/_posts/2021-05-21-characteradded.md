@@ -6,6 +6,7 @@ author: Thodor12
 links: [
     https://developer.roblox.com/en-us/api-reference/event/Player/CharacterAdded
 ]
+tags: ["Thodor12", "Scripting"]
 ---
 
 Often people use

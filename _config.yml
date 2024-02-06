@@ -7,6 +7,10 @@ destination: ./pages/build
 url: https://rsa-internal.github.io/RSA-Resources
 git: https://github.com/RSA-Internal/RSA-Resources
 
+category_list:
+- title: Scripting
+- title: Studio
+
 markdown: kramdown
 kramdown:
   header_offset: 2

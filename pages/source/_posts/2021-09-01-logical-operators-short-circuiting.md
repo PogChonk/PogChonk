@@ -7,6 +7,7 @@ links: [
     "https://devforum.roblox.com/t/does-short-circuiting-an-if-statement-exist-in-lua/234677",
     "https://luau-lang.org/syntax#if-then-else-expressions"
 ]
+tags: ["steve15", "Scripting"]
 ---
 
 A key part into learning how to use pseudo ternaries in Lua(u) is understanding how each part of it works, and this was written especially for that. But, before we get into the workings of logical operators and their short circuiting behavior, the truthyness and falsyness of values needs to be covered first.

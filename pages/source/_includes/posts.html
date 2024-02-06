@@ -5,14 +5,14 @@
     {%- comment -%} Else we use the standard jekyll site.posts to render all posts {%- endcomment -%}
     {% assign post_groups = site.posts | group_by_exp: "item", "item.title | truncate: 1, '' | upcase" | sort: "name" %}
 {% endunless %}
-
 {% for post_group in post_groups %}
 <h3 id="{{ post_group.name | downcase }}"><a href="#{{ post_group.name | downcase }}" class="text-decoration-none">{{ post_group.name }}</a></h3>
 <ul class="post-list">
-{% for post in post_group.items %}
+{% assign post_items = post_group.items | sort %}
+{% for post in post_items %}
 <li>
     <p>
-        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
+        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> by <a href="{{ site.url }}/authors/">{{ post.author }}</a>
         <br/><small class="text-muted">Category: <a href="{{ site.url }}/category/{{ post.category | downcase }}" class="text-muted">{{ post.category | capitalize }}</a></small>
         <br/><small class="text-muted">
             Date: {{ post.date | date: "%d" }}

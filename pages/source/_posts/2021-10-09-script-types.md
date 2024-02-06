@@ -8,6 +8,7 @@ links: [
     "https://devforum.roblox.com/t/a-current-explanation-of-normal-identities-and-security-tags/219471",
     "https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/API-Dump.json"
 ]
+tags: ["Thodor12", "Studio"]
 ---
 
 Roblox has multiple different script types, understanding the differences and where you can use them is essential for developing your games.

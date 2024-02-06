@@ -12,6 +12,7 @@ end
 group :jekyll_plugins do
     gem "github-pages", ">= 228"
     gem "jekyll-archives"
+    gem 'jekyll_pages_api'
 end
 
 gem 'param_test', git: 'https://github.com/TinyPandas/param-test-ruby'

@@ -3,6 +3,7 @@ layout: post
 title: Properties not updating
 category: Scripting
 author: Thodor12
+tags: ["Thodor12", "Scripting"]
 ---
 
 Sometimes we see people that do things like setting the Text of a TextLabel recusively, wanting it to constantly update it's value based on a leaderstats value or something similar, however the GUI doesn't show a single update despite changing the value of the leaderstats.

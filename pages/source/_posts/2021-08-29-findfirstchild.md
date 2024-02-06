@@ -7,6 +7,7 @@ links: [
     "https://developer.roblox.com/en-us/api-reference/function/Instance/FindFirstChild",
     "https://developer.roblox.com/en-us/api-reference/function/Instance/WaitForChild"
 ]
+tags: ["Thodor12", "Scripting"]
 ---
 
 There's some pretty big differences between `FindFirstChild` and `WaitForChild` which you have to understand in order to properly use them.

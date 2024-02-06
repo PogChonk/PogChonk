@@ -3,6 +3,7 @@ layout: post
 title: Events vs polling
 category: Scripting
 author: Thodor12
+tags: ["Thodor12", "Scripting"]
 ---
 
 Roblox is an event-driven system, but what does this entail exactly?
